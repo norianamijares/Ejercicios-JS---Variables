@@ -8,7 +8,7 @@ const listaDeCompras = [
     "Pollo",
     "Rapiditas",
     "Queso",
-    "Salame", 
+    "Salame"
 ];
 
 console.log("Lista de compras:");
