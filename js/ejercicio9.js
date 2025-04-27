@@ -1,3 +1,5 @@
+//Solicita al usuario dos números y una operación (+, -, *, /) usando prompt. Muestra el resultado de la operación en un alert.
+
 let num1 = prompt("Ingrese un número:");
 let num2 = prompt("Ingrese otro número:");
 let operacion = prompt("Ingrese la operación deseada: +, -, *, /");
